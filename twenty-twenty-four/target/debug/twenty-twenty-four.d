@@ -1,0 +1,1 @@
+/Users/jay/git/advent-of-code/twenty-twenty-four/target/debug/twenty-twenty-four: /Users/jay/git/advent-of-code/twenty-twenty-four/src/main.rs /Users/jay/git/advent-of-code/twenty-twenty-four/src/one.rs
